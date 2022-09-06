@@ -22,3 +22,19 @@ workflow scripts were tested on GNU Bash v4.3.11 and later
 scripts were tested on Ubuntu, Linux, Centos and Mac OS (no testing was performed for windows operating systems)
 
 # Perl 5.34 or higher
+
+ # INSTALLATION
+------------
+1. unpack "blacfampred_standalone.tar.gz"
+   tar -xvzf blacfampred_standalone.tar.gz
+   cd blacfampred_standalone/
+2. Install the HMMER v3.1 package to run HMMSCAN & NHMMSCAN from the blacfampred_standalone folder.
+step1: uncompress:   	  	  uncompress hmmer-3.1b2.tar.gz  
+step2: unpack: 	   	    	  tar -xvzf hmmer-3.1b2.tar
+step3: move into new directory:	  cd hmmer-3.1b2
+step4: configure:    		  ./configure
+step5: build:			  make
+step6: automated tests:        	  make check
+step7: automated install:         make install
+
+3. Define the complete path of installed HMMER for 'HMMSCAN for protein sequences' and 'NHMMSCAN for nucleotide sequences' for scanning of AR genes. 
