@@ -8,25 +8,15 @@ Developer: Deeksha Pandey (deeksha.pandey.biophysics@south.du.ac.in)
 
 # Dependencies
 
-The following dependencies are for use of the β-lacFamPred workflow scripts. If you wish to use your own workflow, then copy the HMM files in β-lacFamPred to the desired location on your server/computer for use with your installation of HMMER.
+The following dependencies are for use of the β-lacFamPred workflow scripts. If you wish to use your own workflow, then copy the HMM files in β-lacFamPred using the link http://www.proteininformatics.org/mkumar/blacfampred/COMBINED/PROTEIN/ in case of protein or nucleotide http://www.proteininformatics.org/mkumar/blacfampred/COMBINED/NUCLEOTIDE/ to the desired location on your server/computer for use with your installation of HMMER.
 
-***********How to use it? **************
-
-######Files description#####
-
-nARGhmm: Library of 95 nucleotide β-lactamsase families HMMs
-
-pARGhmm: Library of 95 nucleotide β-lactamsase families HMMs: Annotation of 95 β-lactamsase families HMMs
+# HMMER
 
 HMMER download and install as standalone using link: http://hmmer.org/download.html
 
-Scanning of protein sequences will perform using hmmscan
+# Bash shell and the GNU coreutils
 
-/hmmer-3.1b2-linux-intel-x86_64/src/hmmscan --cpu 4 -E 0.000001 --tblout abc.out pARGhmm protein.fasta
+workflow scripts were tested on GNU Bash v4.3.11 and later
+scripts were tested on Ubuntu, Linux, Centos and Mac OS (no testing was performed for windows operating systems)
 
-Scanning of gene sequences will perform using nhmmscan**
-
-/hmmer-3.1b2-linux-intel-x86_64/src/nhmmscan --cpu 4 -E 0.000001 --tblout abc.out nARGhmm gene.fasta
-
-Using above commands user can scan their protein and nucleotide sequences; upon search it will give the similarity score and e-value. Depending on the scores user can select hits and retrieve their complete annotation using “ARG_Annotations” file.
-
+# Perl 5.34 or higher
