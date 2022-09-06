@@ -33,6 +33,7 @@ scripts were tested on Ubuntu, Linux, Centos and Mac OS (no testing was performe
    cd blacfampred_standalone/
    
 2. Install the HMMER v3.1 package to run HMMSCAN & NHMMSCAN from the blacfampred_standalone folder.
+
 step1: uncompress:   	  	  uncompress hmmer-3.1b2.tar.gz  
 
 step2: unpack: 	   	    	  tar -xvzf hmmer-3.1b2.tar
