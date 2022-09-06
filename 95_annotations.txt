@@ -1,0 +1,96 @@
+BlacFaHMM Name	Class	Subfamily	Gene Name	Antibiotic Resistant	Antibiotic Class	 Definition	Family	Phenotype	Functional Information
+CLASSA_AST	Class A 	NA	AST-1	Penam	Cephalosporin	NA	AST Beta-lactamase	NA	Broad spectrum
+CLASSA_BEL	Class A 	NA	BEL, BEL-1, BEL-2, blaBEL-1, 	Monobactam, Penam	Beta_lactam, Cephalosporin	class A extended-spectrum beta-lactamase	BEL Beta-lactamase	2be	ESBL
+CLASSA_BLAF	Class A 	NA	blAF	Penam	Beta_lactam	NA	BLAF Beta-lactamase	NA	NA
+CLASSA_BLAZ	Class A 	NA	PC1, blaZ, bl2a_pc	Penam, Penicilin	Beta_lactam	BlaZ family penicillin-hydrolyzing class A beta-lactamase	BLAZ Beta-lactamase	NA	NA
+CLASSA_BPS	Class A 	NA	NA	NA	NA	NA	BPS Beta-lactamase	NA	ESBL
+CLASSA_BRO	Class A 	NA	blaBRO-1, BRO-1	NA	Beta_lactam	class A beta-lactamase	BRO Beta-lactamase	NA	NA
+CLASSA_CARB	Class A 	NA	CARB, CARB-10, blaCARB-10, bl2c_bro, RTG-4	Carbenicillin, Penicillin, Penam	Beta_lactam	RTG family carbenicillin-hydrolyzing class A extended-spectrum beta-lactamase	CARB Beta-lactamase	2c	Broad spectrum
+CLASSA_CBLA	Class A 	NA	CBLA, CBLA-1	NA	Beta_lactam, Cephalosporin	CblA family class A	CBLA Beta-lactamase	NA	NA
+CLASSA_CEPA	Class A 	NA	CepA, CEPA	NA	Beta_lactam, Cephalosporin	CepA family class A extended-spectrum beta-lactamase	CEPA Beta-lactamase	2e	ESBL
+CLASSA_CFXA	Class A 	NA	CfxA, CfxA2, bl2e_cfxa	Cephamycin	Beta_lactam, Cephalosporin	class A broad-spectrum beta-lactamase	CFXA Beta-lactamase	2e	ESBL
+CLASSA_CKO	Class A 	NA	NA	NA	NA	NA	CKO Beta-lactamase	NA	Broad spectrum
+CLASSA_CME	Class A 	NA	Cmec, Cme	Multi-drug resistance: Erythromycin, Glycylcycline, roxithromycin, fusidic acid	Multi-class: Macrolide antibiotic, cephalosporin, fluoroquinolone antibiotic	NA	CME Beta-lactamase	NA	ESBL
+CLASSA_CTXM	Class A 	NA	CTX-M-15, bl2be_ctxm, CTX, blaCTX-M-139, blaCTXM-142, CTX-M-82, CTX-M-15	ceftazidime, Monobactam, Penicillin 	Beta_lactam, Cephalosporin	Class A extended-spectrum beta-lactamase	CTXM Beta-lactamase	2be	ESBL
+CLASSA_FAR	Class A 	NA	farA	NA	NA	antibacterial free fatty acids	FAR Beta-lactamase	NA	ESBL
+CLASSA_FONA	Class A 	NA	FONA, blaFONA-3, blaFONA-6	ceftazidime, Monobactam, Penicillin 	Beta_lactam, Cephalosporin	NA	FONA Beta-lactamase	NA	Broad spectrum
+CLASSA_GES	Class A 	NA	GES-5, blaGES-3, GES	Penam	Beta_lactam, Carbapenam, Cephalosporin	MULTISPECIES: carbapenem-hydrolyzing class A beta-lactamase	GES Beta-lactamase	2f	ESBL
+CLASSA_HERA	Class A 	NA	NA	Penam	Beta_lactam	penicillin-hydrolyzing class A beta-lactamase	HERA Beta-lactamase	NA	Broad spectrum
+CLASSA_IBC	Class A 	NA	NA	NA	NA	NA	IBC Beta-lactamase	NA	NA
+CLASSA_IMI	Class A 	NA	IMI-1, blaIM1-1, IM1-13, IMI	NA	Beta_lactam, Carbapenam	carbapenem-hydrolyzing class A beta-lactamase	IMI Beta-lactamase	2f	Carbapenemase
+CLASSA_KLUA	Class A 	NA	NA	ceftazidime, Monobactam, Penicillin 	Beta_lactam, Cephalosporin	class A extended-spectrum beta-lactamase	KLUA Beta-lactamase	2be	ESBL
+CLASSA_KLUC	Class A 	NA	NA	NA	NA	NA	KLUC Beta-lactamase	NA	ESBL
+CLASSA_KLUY	Class A 	NA	NA	NA	NA	NA	KLUY Beta-lactamase	NA	ESBL
+CLASSA_KPC	Class A 	NA	NA	Monobactam, Penicillin 	Beta_lactam, Carbapenam, Cephalosporin	MULTISPECIES: carbapenem-hydrolyzing class A beta-lactamase	KPC Beta-lactamase	2f	Carbapenemase
+CLASSA_LAP	Class A 	NA	NA	NA	NA	NA	LAP Beta-lactamase	NA	Broad spectrum
+CLASSA_LEN	Class A 	NA	LEN-18, bl2_len, LEN, blaLEN-17, blaLEN17	Penicillin, Penam	Beta_lactam	NA	LEN Beta-lactamase	NA	Broad spectrum
+CLASSA_LUT	Class A 	NA	NA	NA	NA	NA	LUT Beta-lactamase	NA	Broad spectrum
+CLASSA_MAL	Class A 	NA	NA	NA	NA	NA	MAL Beta-lactamase	NA	Broad spectrum
+CLASSA_NMC	Class A 	NA	NMC-A	Cephamycin, Penam	Beta_lactam, Carbapenam, Cephalosporin	carbapenem-hydrolyzing class A beta-lactamase	NMC Beta-lactamase	2f	Carbapenemase
+CLASSA_OKP	Class A 	NA	OKP-A-3, bl2a_okp, OKP, blaOKP-A-3, OKP-A, OKP-A-3	Penicillin, Penam	Beta_lactam, Cephalosporin	MULTISPECIES: class A broad-spectrum beta-lactamase	OKP Beta-lactamase	NA	Broad spectrum
+CLASSA_ORN	Class A 	NA	NA	NA	NA	NA	ORN Beta-lactamase	2be	Broad spectrum
+CLASSA_OXY	Class A 	NA	OXY-5-1, bl2be_oxy_1, OXY, blaOXY5-1, OXY-5	Monobactam, Penicillin, Penam	Beta_lactam, Carbapenam, Cephalosporin	MULTISPECIES: class A extended-spectrum beta-lactamase	OXY Beta-lactamase	NA	ESBL
+CLASSA_PENA	Class A 	NA	NA	NA	NA	NA	PENA Beta-lactamase	NA	Carbapenemase
+CLASSA_PER	Class A 	NA	PER-7, PER, blaPER-8, blaPER-7	Monobactam, Penam	Beta_lactam, Carbapenam, Cephalosporin	class A extended-spectrum beta-lactamase	PER Beta-lactamase	2be	ESBL
+CLASSA_PLA	Class A 	NA	blaPLA2a	NA	Beta_lactam	NA	PLA Beta-lactamase	2be	Broad spectrum
+CLASSA_PSE	Class A 	NA	bl2c_pse1, PSE-1	carbenicillin, penicillin, Penam	Beta_lactam	PSE family carbenicillin-hydrolyzing class A	PSE Beta-lactamase	NA	NA
+CLASSA_RAHN	Class A 	NA	RAHN, blaRAHN-1, RAHN-1	NA	Beta_lactam	class A extended-spectrum beta-lactamase	RAHN Beta-lactamase	NA	ESBL
+CLASSA_ROB	Class A 	NA	ROB-1, ROB, blaROB-1	Penam, Penicilin	Beta_lactam, Cephalosporin	MULTISPECIES: cephalosporin-hydrolyzing class A beta-lactamase	ROB Beta-lactamase	NA	Broad spectrum
+CLASSA_RTG	Class A 	NA	NA	NA	NA	NA	RTG Beta-lactamase	NA	NA
+CLASSA_SCO	Class A 	NA	NA	NA	NA	NA	SCO Beta-lactamase	NA	Broad spectrum
+CLASSA_SFO	Class A 	NA	NA	NA	NA	NA	SFO Beta-lactamase	NA	ESBL
+CLASSA_SHV	Class A 	NA	SHV-12, bl2be_shv2_ SHV, blaSHV-5, blaSHV-66	Monobactam, Penicillin, Penam	Beta_lactam, Carbapenam, Cephalosporin	NA	SHV Beta-lactamase	2b, 2be 2br	ESBL & Broad spectrum
+CLASSA_SME	Class A 	NA	SME-1, SME, blaSME-1	NA	Beta_lactam, Carbapenam	carbapenem-hydrolyzing class A beta-lactamase	SME Beta-lactamase	2f	Carbapenemase
+CLASSA_TEM	Class A 	NA	TEM-1, blaTEM-1D, TEM-234, TEM	Monobactam, Penam	Beta_lactam, Cephalosporin	class A beta-lactamase	TEM Beta-lactamase	2b, 2be, 2br, 2ber	ESBL & Broad spectrum
+CLASSA_TER	Class A 	NA	blaTER-1	NA	Beta_lactam	NA	TER Beta-lactamase	2b	NA
+CLASSA_TLA	Class A 	NA	TLA-1, TLA, blaTLA-1	Monobactam, Penam	Cephalosporin, fluoroquinolone antibiotic,  Beta_lactam	class A extended-spectrum beta-lactamase	TLA Beta-lactamase	NA	ESBL
+CLASSA_TOHO	Class A 	NA	NA	NA	NA	NA	TOHO Beta-lactamase	NA	NA
+CLASSA_VEB	Class A 	NA	VEB-9, VEB, VEB-14, blaVEB-1	Monobactam	Cephalosporin, Beta_lactam	NA	VEB Beta-lactamase	2be	ESBL
+CLASSA_ARL	Class A 	NA	arlR	Penam, acridine dye, Multi-drug resistance	Fluoroquinolone antibiotic	NA	ARL Beta-lactamase	NA	NA
+CLASSA_AXC	Class A 	NA	EXO	penam	NA	NA	AXC Beta-lactamase	NA	Carbapenemase
+CLASSA_BCI	Class A 	NA	BcI, bl2a_iii, Bla1	penam, Penicillin	Beta_lactam, Cephalosporin	class A beta-lactamase	BCI Beta-lactamase	NA	NA
+CLASSA_CRH	Class A 	NA	KPC-2	monobactam, penam	carbapenem, cephalosporin	class A beta-lactamase	CRH Beta-lactamase	NA	Carbapenemase
+CLASSA_FRI	Class A 	NA	NmcA	cephamycin, penam	carbapenem, cephalosporin	NA	FRI Beta-lactamase	NA	Carbapenemase
+CLASSA_L2	Class A 	NA	NA	NA	NA	NA	L2 Beta-lactamase	2e	ESBL
+CLASSA_PAL	Class A 	NA	CARB-1	penam	NA	NA	PAL Beta-lactamase	NA	NA
+CLASSA_PC1	Class A 	NA	bl2a_pc, BlaZ	penam, Penicillin	beta-lactam	penicillin-hydrolyzing class A beta-lactamase	PC1 Beta-lactamase	2a	Narrow Spectrum
+CLASSA_PENB	Class A 	NA	NA	NA	NA	NA	PENB Beta-lactamase	NA	Broad Spectrum
+CLASSA_PLES	Class A 	NA	CARB-3	penam	NA	NA	PLES beta-lactamase	NA	NA
+CLASSA_SDA	Class A 	NA	NA	NA	NA	NA	SDA beta-lactamase	NA	Broad Spectrum
+CLASSA_SGM	Class A 	NA	KPC-2	monobactam, penam	carbapenem, cephalosporin, aminoglycoside	NA	SGM beta-lactamase	NA	ESBL
+CLASSA_XCC	Class A 	NA	CTX-M-1	NA	cephalosporin	NA	XCC beta-lactamase	NA	NA
+SubfamilyB1_BLAB	CLASS B	Subfamily B1	BLAB, blaB-1, blaB-11, blaB, Blab-1	NA	Beta_lactam, Carbapenam	MULTISPECIES: subclass B1 metallo-beta-lactamase	BlaB beta-lactamase	NA	Carbapenemase
+SubfamilyB1_DIM	CLASS B	Subfamily B1	DIM, DIM-1, blaDIM-1	NA	Beta_lactam, Carbapenam, Cephalosporin	MULTISPECIES: subclass B1 metallo-beta-lactamase	DIM beta-lactamase	NA	Carbapenemase
+SubfamilyB1_GIM	CLASS B	Subfamily B1	GIM-2, GIM, blaGIM-2, blaGIM-1, GIM-1	Cephamycin, Penam, Monobactam	Beta_lactam, Carbapenam, Cephalosporin	subclass B1 metallo-beta-lactamase	GIM beta-lactamase	NA	Carbapenemase
+SubfamilyB1_IMP	CLASS B	Subfamily B1	IMP-30, bl3_imp, IMP, blaIMP-39, blaIMP-1, IMP-1	Cephamycin, Penam, Monobactam, Penicillin	Beta_lactam, Carbapenam, Cephalosporin	MULTISPECIES: subclass B1 metallo-beta-lactamase	IMP beta-lactamase	3a	Carbapenemase
+SubfamilyB1_IND	CLASS B	Subfamily B1	IND-1, IND, blaIND-7, blaIND-1	NA	Beta_lactam, Carbapenam	subclass B1 metallo-beta-lactamase	IND beta-lactamase	3a	NA
+SubfamilyB1_NDM	CLASS B	Subfamily B1	NDM-1, NDM-4, blaNDM-1, NDM-23, NDM	Cephamycin, Penam	Beta_lactam, Carbapenam, Cephalosporin	subclass B1 metallo-beta-lactamase	NDM beta-lactamase	3a	Carbapenemase
+SubfamilyB1_SIM	CLASS B	Subfamily B1	blaSIM-1, SIM-1	Penam	Beta_lactam, Carbapenam, Cephalosporin	MULTISPECIES: subclass B1 metallo-beta-lactamase	SIM beta-lactamase	NA	Carbapenemase
+SubfamilyB1_TMB	CLASS B	Subfamily B1	TMB-1, blaTMB-1	Cephamycin	Beta_lactam, Carbapenam, Cephalosporin	MULTISPECIES: subclass B1 metallo-beta-lactamase	TMB beta-lactamase	NA	Carbapenemase
+SubfamilyB1_VIM	CLASS B	Subfamily B1	VIM-1, blaVIM-1, VIM-59, VIM	Cephamycin, Penam	Beta_lactam, Carbapenam, Cephalosporin	subclass B1 metallo-beta-lactamase	VIM beta-lactamase	3a	Carbapenemase
+SubfamilyB1_CFIA	CLASS B	Subfamily B1	CcrA	NA	carbapenem	NA	CfiA beta-lactamase	3a	NA
+SubfamilyB2_CPHA	CLASS B	Subfamily B2	cphA6, bl3_cpha, CPHA	Cephamycin, Penicillin	Beta_lactam, Carbapenam, Cephalosporin	subclass B2 metallo-beta-lactamase	CphA beta-lactamase	3b	NA
+SubfamilyB3_GOB	CLASS B	Subfamily B3	GOB-1, blaGOB-8, GOB	Penam	Beta_lactam, Carbapenam, Cephalosporin	subclass B3 metallo-beta-lactamase	GOB beta-lactamase	3a	NA
+SubfamilyB3_L1	CLASS B	Subfamily B3	L1B3, L1	NA	Beta_lactam	L1 family subclass B3 metallo-beta-lactamase	L1 family beta-lactamase	3a	NA
+SubfamilyB3_LRA	CLASS B	Subfamily B3	LRA-1, blaLRA-1	Penam	Beta_lactam, Cephalosporin	subclass B3 beta-lactamase	LRA beta-lactamase	NA	NA
+CLASSC_ACC	CLASS C	NA	ACC-1, bl1_acc_ blaACC-1	Penicillin, Penam, Monobactam	Beta_lactam, Cephalosporin	NA	ACC beta-lactamase	1	NA
+CLASSC_ACT	CLASS C	NA	ACT-29, blaACT-6, ACT-49, ACT	Cephamycin, Penam	Beta_lactam, Carbapenam, Cephalosporin	MULTISPECIES: cephalosporin-hydrolyzing class C beta-lactamase	ACT beta-lactamase	1	NA
+CLASSC_AMPC	CLASS C	NA	ampC, bl1_ec, BLAEC, AmpC2	Penam	Beta_lactam, Cephalosporin	class C extended-spectrum beta-lactamase	ampC-type beta-lactamase	NA	NA
+CLASSC_CMY	CLASS C	NA	CMY-2, blaCMY-133, CMY-134, CMY	Cephamycin	Beta_lactam, Cephalosporin	class C beta-lactamase	CMY beta-lactamase	1 and 1e	NA
+CLASSC_DHA	CLASS C	NA	DHA-1, DHA-6, blaDHA-1, DHA-26, DHA	Cephamycin	Beta_lactam, Cephalosporin	class C beta-lactamase	DHA beta-lactamase	1	NA
+CLASSC_FOX	CLASS C	NA	FOX-2, blaFOX-7, FOX-14, FOX	Cephamycin	Beta_lactam, Cephalosporin	MULTISPECIES: cephalosporin-hydrolyzing class C beta-lactamase	FOX beta-lactamase	1	NA
+CLASSC_LAT	CLASS C	NA	LAT-1, blaLAT-1	cephamycin, cefoxitin, ceftazidime,  	Beta_lactam, Carbapenam, Cephalosporin	CMY-2 family cephalosporin-hydrolyzing class C beta-lactamase	LAT beta-lactamase	NA	NA
+CLASSC_MIR	CLASS C	NA	MIR-10, MIR, blaMIR-5, MIR-8	Monobactam	Beta_lactam, Cephalosporin	MULTISPECIES: cephalosporin-hydrolyzing class C beta-lactamase	MIR beta-lactamase	1	NA
+CLASSC_MOX	CLASS C	NA	MOX-1, bl1_mox, MOX, blaMOX-1	Cephamycin, Penam	Beta_lactam, Cephalosporin	MULTISPECIES: CMY-1/MOX family class C beta-lactamase	MOX beta-lactamase	NA	NA
+CLASSC_SRT	CLASS C	NA	bl1_sm, SRT, SRT-2	NA	Beta_lactam, Cephalosporin	NA	SRT beta-lactamase	NA	NA
+CLASSC_ADC	CLASS C	NA	ADC-2, ADC, blaADC-58, blaADC-25, ADC-105	NA	Beta_lactam, Cephalosporin	class C beta-lactamase	ADC beta-lactamase	NA	ESBL
+CLASSC_ESC	CLASS C	NA	NA	penam	cephalosporin 	NA	ESC beta-lactamase	NA	NA
+CLASSC_PDC	CLASS C	NA	PDC, PDC-5, PDC 303	monobactam	carbapenem, cephalosporin	class C beta-lactamase	PDC beta-lactamase	NA	NA
+CLASSC_AQU	CLASS C	NA	AQU-1, AQU, blaAQU-2	NA	Beta_lactam, Cephalosporin	class C beta-lactamase	AQU beta-lactamase	NA	NA
+CLASSC_CDA	CLASS C	NA	NA	NA	NA	NA	CDA beta-lactamase	NA	NA
+CLASSC_CMH	CLASS C	NA	blaCMH-3, blaCMH-1	NA	Beta_lactam	NA	CMH beta-lactamase	NA	NA
+CLASSC_LHK	CLASS C	NA	NA	NA	NA	NA	LHK beta-lactamase	NA	NA
+CLASSC_OCH	CLASS C	NA	OCH-1, bl1_och, OCH, blaOCH-7	monobactam, cephamycin, penam, penem	cephalosporin	class C extended-spectrum beta-lactamase	OCH beta-lactamase	NA	NA
+CLASSC_SEC	CLASS C	NA	NA	NA	NA	NA	SEC beta-lactamase	NA	NA
+CLASSD_LCR	CLASS D	NA	LCR-1, bl2d_lcr1, blaLCR-1	cloxacillin, penicillin, Penam	Beta_lactam, Cephalosporin	oxacillin-hydrolyzing class D beta-lactamase	LCR beta-lactamase	NA	NA
+CLASSD_OXA	CLASS D	NA	OXA-10, bl2d_oxa10, OXA, blaOXA-10	cloxacillin, penicillin, Penam	Beta_lactam, Cephalosporin	MULTISPECIES: oxacillin-hydrolyzing class D beta-lactamase	OXA beta-lactamase	2d, 2de, 2df, 2def	Carbapenemase, ESBL, Narrow Spectrum

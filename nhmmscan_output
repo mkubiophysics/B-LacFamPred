@@ -1,0 +1,75 @@
+# target name        accession  query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  modlen strand   E-value  score  bias  description of target
+#------------------- ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+CLASSA_ARL           -          ARL-1                -                1     845       1     845       1     846     846    +    1.5e-275  909.7  88.2  -
+CLASSA_BLAZ          -          ARL-1                -                1     828       1     828       1     842     843    +    6.7e-108  355.9  83.7  -
+CLASSA_PC1           -          ARL-1                -                1     825       1     825       1     840     843    +    3.7e-104  343.6  81.8  -
+CLASSA_SDA           -          ARL-1                -              125     901      57     824      24     836     923    +     3.4e-87  287.3  89.0  -
+CLASSA_BCI           -          ARL-1                -              160     894      82     822      60     837     918    +     1.7e-70  232.4  83.7  -
+CLASSA_ROB           -          ARL-1                -               95     900      11     837       7     846     915    +     2.4e-62  205.2  82.6  -
+CLASSA_OXY           -          ARL-1                -               41     852      14     825       4     838     870    +     7.4e-56  183.9  83.4  -
+CLASSA_AST           -          ARL-1                -              100     909      16     825      10     844     930    +     2.2e-55  182.3  83.6  -
+CLASSA_CTXM          -          ARL-1                -               41     855      11     825       2     843     873    +     5.4e-55  181.1  80.9  -
+CLASSA_RAHN          -          ARL-1                -               68     866      33     824      13     840     885    +     2.4e-52  172.5  85.0  -
+CLASSA_CARB          -          ARL-1                -                6     769       9     763       2     784     864    +     7.4e-52  170.9  70.4  -
+CLASSA_FONA          -          ARL-1                -               70     865      25     823       9     839     885    +       1e-51  170.2  82.9  -
+CLASSA_SFO           -          ARL-1                -               70     865      25     823       9     840     885    +     1.2e-51  170.0  83.0  -
+CLASSA_LUT           -          ARL-1                -               99     865      63     826      40     839     888    +     5.4e-49  161.4  87.4  -
+CLASSA_SME           -          ARL-1                -               18     872       9     836       2     845     882    +     6.6e-49  161.0  83.0  -
+CLASSA_KLUA          -          ARL-1                -              118     819      88     786      68     808     873    +     1.1e-48  160.4  75.0  -
+CLASSA_KLUY          -          ARL-1                -               46     855      16     825       2     840     873    +     1.2e-48  160.2  80.3  -
+CLASSA_TOHO          -          ARL-1                -              118     819      88     786      68     808     873    +     1.2e-48  160.2  75.0  -
+CLASSA_PENB          -          ARL-1                -              131     904      44     814      22     835     936    +     1.7e-46  153.2  85.7  -
+CLASSA_KPC           -          ARL-1                -               20     850      23     829      11     844     879    +     2.4e-46  152.5  85.7  -
+CLASSA_PSE           -          ARL-1                -                3     766       6     760       4     781     864    +     2.9e-45  149.2  69.6  -
+CLASSA_IMI           -          ARL-1                -               38     873      11     843       5     845     876    +     5.6e-45  148.0  83.4  -
+CLASSA_NMC           -          ARL-1                -               38     873      11     843       5     845     876    +     6.7e-45  147.7  83.4  -
+CLASSA_CRH           -          ARL-1                -               91     846      79     831      54     843     870    +       1e-43  143.8  86.2  -
+CLASSA_L2            -          ARL-1                -               95     859      35     808      18     829     909    +       4e-43  141.9  82.0  -
+CLASSA_RTG           -          ARL-1                -               31     795      13     765       4     786     894    +     8.6e-43  140.9  71.0  -
+CLASSA_KLUC          -          ARL-1                -              109     812      79     779      54     807     873    +     2.9e-41  135.7  77.1  -
+CLASSA_BPS           -          ARL-1                -              119     870      80     831      59     841     885    +     1.1e-39  130.6  84.7  -
+CLASSA_PENA          -          ARL-1                -              119     870      80     831      59     841     885    +     1.1e-39  130.6  84.7  -
+CLASSA_FAR           -          ARL-1                -              135     918      45     825      24     838     939    +     8.2e-39  127.6  85.2  -
+CLASSA_FRI           -          ARL-1                -               11     860       2     836       1     846     882    +     3.1e-37  122.4  79.1  -
+CLASSA_PAL           -          ARL-1                -               15     690       6     681       1     719     855    +     3.7e-37  122.1  67.1  -
+CLASSA_MAL           -          ARL-1                -              131     808      89     766      37     788     900    +     1.2e-35  117.2  73.6  -
+CLASSA_CKO           -          ARL-1                -              133     808      91     766      47     788     900    +     2.3e-35  116.3  73.9  -
+CLASSA_SCO           -          ARL-1                -               38     781      17     766       9     787     864    +     2.4e-35  116.4  71.5  -
+CLASSA_BRO           -          ARL-1                -              162     914      78     818      58     838     939    +     4.5e-33  108.3  78.5  -
+CLASSA_BEL           -          ARL-1                -               17     786      20     783       1     805     849    +     5.2e-33  108.2  70.6  -
+CLASSA_XCC           -          ARL-1                -              211     802     172     766     148     787     888    +     1.7e-32  107.0  58.9  -
+CLASSA_AXC           -          ARL-1                -              121     748      73     700      53     744     894    +     2.3e-32  106.6  73.9  -
+CLASSA_BLAF          -          ARL-1                -               57     830      32     800      14     820     882    +     3.4e-32  105.9  81.0  -
+CLASSA_HERA          -          ARL-1                -                2     791       2     767       1     788     870    +     1.5e-31  103.9  69.7  -
+CLASSA_LAP           -          ARL-1                -                1     797       1     783       1     805     855    +     2.6e-30   99.8  72.2  -
+CLASSA_LEN           -          ARL-1                -               15     773       9     764       3     784     858    +     1.8e-28   93.6  70.4  -
+CLASSA_SHV           -          ARL-1                -               15     773       9     764       3     784     858    +     3.9e-28   92.5  70.2  -
+CLASSA_TEM           -          ARL-1                -              260     791     239     780     144     803     858    +     7.9e-27   88.2  62.0  -
+CLASSA_PLES          -          ARL-1                -              102     760      54     712      34     739     897    +     1.3e-26   87.4  74.5  -
+CLASSA_TER           -          ARL-1                -               13     720      10     708       1     749     852    +     1.7e-25   83.9  68.4  -
+CLASSA_OKP           -          ARL-1                -              182     772     173     763     153     783     858    +     1.3e-24   80.8  58.1  -
+CLASSA_GES           -          ARL-1                -                9     816      18     813       4     833     861    +     1.8e-23   77.1  78.2  -
+CLASSA_IBC           -          ARL-1                -                9     816      18     813       4     833     861    +     1.9e-23   77.1  78.2  -
+CLASSD_OXA           -          ARL-1                -                1     649       1     692       1     727     806    +     2.8e-22   72.8  56.3  -
+CLASSA_SGM           -          ARL-1                -              263     869     167     764     146     795     963    +     9.5e-22   71.1  61.4  -
+CLASSA_ORN           -          ARL-1                -              167     770     158     764     133     784     873    +     1.8e-21   70.5  64.1  -
+CLASSA_PLA           -          ARL-1                -              172     770     163     764     134     784     873    +       3e-21   69.8  63.7  -
+CLASSA_CBLA          -          ARL-1                -                1     733       1     715       1     741     888    +     4.3e-19   62.4  61.3  -
+SubfamilyB3_LRA      -          ARL-1                -              342     731      63     449      45     454     936    +     4.4e-14   45.7  42.4  -
+CLASSA_CME           -          ARL-1                -                1     651       1     630       1     666     891    +     4.4e-14   45.8  56.2  -
+CLASSA_VEB           -          ARL-1                -               11     799       2     766       1     778     897    +     3.1e-13   43.2  63.8  -
+CLASSA_TLA           -          ARL-1                -                2     809       2     764       1     785     903    +     1.3e-10   34.5  67.0  -
+CLASSA_CEPA          -          ARL-1                -               25     468      13     441       2     461     900    +     1.6e-10   34.1  32.0  -
+CLASSD_LCR           -          ARL-1                -               14     642      26     714       5     735     783    +     1.3e-09   31.0  58.1  -
+CLASSA_PER           -          ARL-1                -               25     882      13     822       2     842     924    +     1.6e-09   30.7  73.1  -
+CLASSA_CFXA          -          ARL-1                -              322     869     256     770     235     791     963    +     2.8e-09   29.7  48.7  -
+#
+# Program:         hmmscan
+# Version:         3.2 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      example_gene_seqs.fasta
+# Target file:     nARGhmm/Total_95_families_nucleotide.hmm
+# Option settings: nhmmscan --tblout nhmmscan_output -E 1e-6 nARGhmm/Total_95_families_nucleotide.hmm example_gene_seqs.fasta 
+# Current dir:     /Volumes/DATA/Ph.D.Works/BETALACTAMSE_WORK_12-NOV-18/Beta-lactamase_NEW_WORK/Standalone_Version/blacfampred_standalone
+# Date:            Sat Jul 24 16:56:59 2021
+# [ok]
