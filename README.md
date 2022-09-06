@@ -7,6 +7,9 @@ Developer: Deeksha Pandey (deeksha.pandey.biophysics@south.du.ac.in)
 β-lactams are a broad class of antimicrobial agents with a high degree of safety profile. These two factors made them the most widely used class of antimicrobial agents in clinical, agricultural, and veterinary setups. The widespread use of β-lactams has induced extensive spread of β-Lactamases (BLs) that degrade β-lactam antibiotics. Further, the development of newer generations of β-lactams led to the evolution of a highly diverse group of BLs. On the basis of amino acid sequence homology, BLs are categorized through classes A to D in the Ambler system. The Bush–Jacoby system groups BLs through 1 to 4 on the basis of substrate hydrolysis and inhibitor profile. Traditional methods of determining the hydrolytic profile of BLs and their classification is time-consuming, hence we developed a Hidden Markov Models (HMM) based in-silico method, named as β-LacFamPred, for prediction and annotation of Ambler’s class, subclass, and 95 families of BLs.
 
 # Dependencies
+
+The following dependencies are for use of the β-lacFamPred workflow scripts. If you wish to use your own workflow, then copy the HMM files in β-lacFamPred to the desired location on your server/computer for use with your installation of HMMER.
+
 ***********How to use it? **************
 
 ######Files description#####
