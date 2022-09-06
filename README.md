@@ -1,2 +1,1 @@
-# --LacFamPred
-HMM based prediction and annotation tool for β-lactamase families
+# β-LacFamPred: An online tool for prediction and classification of β-Lactamases in class, subclass and family
