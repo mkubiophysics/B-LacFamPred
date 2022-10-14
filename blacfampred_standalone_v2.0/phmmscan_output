@@ -1,0 +1,71 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+CLASSA_AST           -          sp|Q9EZQ7|BLAC_NOCAS -           2.4e-203  666.5  15.5  2.6e-203  666.3  15.5   1.0   1   0   0   1   1   1   1 -
+CLASSA_FAR           -          sp|Q9EZQ7|BLAC_NOCAS -           2.8e-130  426.6  13.5  3.1e-130  426.4  13.5   1.0   1   0   0   1   1   1   1 -
+CLASSA_SDA           -          sp|Q9EZQ7|BLAC_NOCAS -           1.8e-113  371.5   8.0  2.1e-113  371.2   8.0   1.0   1   0   0   1   1   1   1 -
+CLASSA_PENB          -          sp|Q9EZQ7|BLAC_NOCAS -            1.4e-94  309.4  11.7   1.7e-94  309.2  11.7   1.0   1   0   0   1   1   1   1 -
+CLASSA_LUT           -          sp|Q9EZQ7|BLAC_NOCAS -            3.1e-90  294.8   3.9   3.7e-90  294.6   3.9   1.0   1   0   0   1   1   1   1 -
+CLASSA_PENA          -          sp|Q9EZQ7|BLAC_NOCAS -            9.3e-88  286.8   9.5   1.1e-87  286.5   9.5   1.0   1   0   0   1   1   1   1 -
+CLASSA_BPS           -          sp|Q9EZQ7|BLAC_NOCAS -            2.1e-87  285.6   9.2   2.5e-87  285.4   9.2   1.0   1   0   0   1   1   1   1 -
+CLASSA_BCI           -          sp|Q9EZQ7|BLAC_NOCAS -            3.2e-87  285.2   0.0   3.7e-87  285.0   0.0   1.0   1   0   0   1   1   1   1 -
+CLASSA_KPC           -          sp|Q9EZQ7|BLAC_NOCAS -            9.5e-86  280.2   4.7   1.1e-85  280.0   4.7   1.0   1   0   0   1   1   1   1 -
+CLASSA_KLUY          -          sp|Q9EZQ7|BLAC_NOCAS -            4.3e-82  268.0   4.9   5.2e-82  267.7   4.9   1.1   1   0   0   1   1   1   1 -
+CLASSA_IMI           -          sp|Q9EZQ7|BLAC_NOCAS -              8e-82  267.0   0.0   9.3e-82  266.8   0.0   1.0   1   0   0   1   1   1   1 -
+CLASSA_NMC           -          sp|Q9EZQ7|BLAC_NOCAS -            1.7e-81  266.0   0.0     2e-81  265.7   0.0   1.0   1   0   0   1   1   1   1 -
+CLASSA_CRH           -          sp|Q9EZQ7|BLAC_NOCAS -            1.4e-80  263.3   2.7   1.7e-80  263.0   2.7   1.0   1   0   0   1   1   1   1 -
+CLASSA_CTXM          -          sp|Q9EZQ7|BLAC_NOCAS -            5.3e-80  261.4   2.5   6.3e-80  261.1   2.5   1.0   1   0   0   1   1   1   1 -
+CLASSA_RAHN          -          sp|Q9EZQ7|BLAC_NOCAS -              1e-78  257.2   1.4   1.2e-78  256.9   1.4   1.0   1   0   0   1   1   1   1 -
+CLASSA_FONA          -          sp|Q9EZQ7|BLAC_NOCAS -            2.7e-77  252.5   0.2   3.4e-77  252.2   0.2   1.1   1   0   0   1   1   1   1 -
+CLASSA_SFO           -          sp|Q9EZQ7|BLAC_NOCAS -            3.5e-77  252.1   0.2   4.4e-77  251.8   0.2   1.1   1   0   0   1   1   1   1 -
+CLASSA_OXY           -          sp|Q9EZQ7|BLAC_NOCAS -            1.4e-76  250.3   1.5   1.7e-76  250.1   1.5   1.1   1   0   0   1   1   1   1 -
+CLASSA_SME           -          sp|Q9EZQ7|BLAC_NOCAS -            1.2e-74  243.5   0.0   1.5e-74  243.3   0.0   1.0   1   0   0   1   1   1   1 -
+CLASSA_KLUA          -          sp|Q9EZQ7|BLAC_NOCAS -            2.1e-74  243.0   1.1   2.4e-74  242.7   1.1   1.2   1   0   0   1   1   1   1 -
+CLASSA_TOHO          -          sp|Q9EZQ7|BLAC_NOCAS -            3.5e-74  242.2   0.8   4.2e-74  241.9   0.8   1.2   1   0   0   1   1   1   1 -
+CLASSA_RTG           -          sp|Q9EZQ7|BLAC_NOCAS -            6.4e-74  241.3   0.6   7.7e-74  241.1   0.6   1.0   1   0   0   1   1   1   1 -
+CLASSA_KLUC          -          sp|Q9EZQ7|BLAC_NOCAS -            3.3e-73  239.0   2.4   3.9e-73  238.8   2.4   1.0   1   0   0   1   1   1   1 -
+CLASSA_FRI           -          sp|Q9EZQ7|BLAC_NOCAS -            2.6e-72  236.0   0.0   3.1e-72  235.8   0.0   1.0   1   0   0   1   1   1   1 -
+CLASSA_L2            -          sp|Q9EZQ7|BLAC_NOCAS -            4.5e-72  235.6  11.3   5.1e-72  235.4  11.3   1.0   1   0   0   1   1   1   1 -
+CLASSA_CARB          -          sp|Q9EZQ7|BLAC_NOCAS -            1.4e-69  227.3   0.1   1.8e-69  226.9   0.1   1.1   1   0   0   1   1   1   1 -
+CLASSA_BLAF          -          sp|Q9EZQ7|BLAC_NOCAS -            3.1e-69  226.0   8.3     4e-69  225.6   8.3   1.0   1   0   0   1   1   1   1 -
+CLASSA_OKP           -          sp|Q9EZQ7|BLAC_NOCAS -            1.2e-68  223.8   1.2   1.5e-68  223.5   1.2   1.1   1   0   0   1   1   1   1 -
+CLASSA_PLA           -          sp|Q9EZQ7|BLAC_NOCAS -            8.4e-68  221.0   1.6     1e-67  220.6   1.6   1.1   1   0   0   1   1   1   1 -
+CLASSA_ORN           -          sp|Q9EZQ7|BLAC_NOCAS -            1.7e-67  219.9   1.7   2.2e-67  219.6   1.7   1.1   1   0   0   1   1   1   1 -
+CLASSA_TER           -          sp|Q9EZQ7|BLAC_NOCAS -            1.8e-67  220.0   1.8   2.5e-67  219.5   1.8   1.1   1   0   0   1   1   1   1 -
+CLASSA_SCO           -          sp|Q9EZQ7|BLAC_NOCAS -            2.9e-67  219.6   5.2   3.6e-67  219.3   5.2   1.1   1   0   0   1   1   1   1 -
+CLASSA_LEN           -          sp|Q9EZQ7|BLAC_NOCAS -            5.2e-67  218.7   0.7   6.5e-67  218.4   0.7   1.1   1   0   0   1   1   1   1 -
+CLASSA_TEM           -          sp|Q9EZQ7|BLAC_NOCAS -            8.9e-67  217.9   0.2   1.1e-66  217.6   0.2   1.1   1   0   0   1   1   1   1 -
+CLASSA_XCC           -          sp|Q9EZQ7|BLAC_NOCAS -            1.2e-66  217.3   5.2   1.4e-66  217.1   5.2   1.0   1   0   0   1   1   1   1 -
+CLASSA_SHV           -          sp|Q9EZQ7|BLAC_NOCAS -            2.1e-66  216.7   0.7   2.6e-66  216.4   0.7   1.1   1   0   0   1   1   1   1 -
+CLASSA_ROB           -          sp|Q9EZQ7|BLAC_NOCAS -            3.7e-66  215.8   0.0   4.4e-66  215.6   0.0   1.0   1   0   0   1   1   1   1 -
+CLASSA_AXC           -          sp|Q9EZQ7|BLAC_NOCAS -            7.8e-65  211.7   6.7   9.5e-65  211.5   6.7   1.0   1   0   0   1   1   1   1 -
+CLASSA_LAP           -          sp|Q9EZQ7|BLAC_NOCAS -              4e-60  195.6   0.1   4.9e-60  195.3   0.1   1.1   1   0   0   1   1   1   1 -
+CLASSA_SGM           -          sp|Q9EZQ7|BLAC_NOCAS -            1.4e-57  187.9   2.8   1.7e-57  187.6   2.8   1.1   1   0   0   1   1   1   1 -
+CLASSA_MAL           -          sp|Q9EZQ7|BLAC_NOCAS -            5.2e-56  182.8   0.7   6.7e-56  182.5   0.7   1.0   1   0   0   1   1   1   1 -
+CLASSA_CKO           -          sp|Q9EZQ7|BLAC_NOCAS -            5.5e-56  182.7   0.7   7.1e-56  182.4   0.7   1.0   1   0   0   1   1   1   1 -
+CLASSA_HERA          -          sp|Q9EZQ7|BLAC_NOCAS -            2.6e-54  177.1   3.8   3.1e-54  176.8   3.8   1.0   1   0   0   1   1   1   1 -
+CLASSA_ARL           -          sp|Q9EZQ7|BLAC_NOCAS -            2.3e-53  173.9   0.0   2.9e-53  173.5   0.0   1.0   1   0   0   1   1   1   1 -
+CLASSA_BEL           -          sp|Q9EZQ7|BLAC_NOCAS -              1e-52  171.6   0.1   1.4e-52  171.1   0.1   1.1   1   0   0   1   1   1   1 -
+CLASSA_PSE           -          sp|Q9EZQ7|BLAC_NOCAS -              9e-51  165.5   0.0   1.1e-50  165.2   0.0   1.1   1   0   0   1   1   1   1 -
+CLASSA_PLES          -          sp|Q9EZQ7|BLAC_NOCAS -            2.8e-50  163.5   0.9   4.6e-50  162.8   0.9   1.2   1   1   0   1   1   1   1 -
+CLASSA_IBC           -          sp|Q9EZQ7|BLAC_NOCAS -            4.1e-46  150.2   0.8   5.3e-46  149.8   0.8   1.1   1   0   0   1   1   1   1 -
+CLASSA_GES           -          sp|Q9EZQ7|BLAC_NOCAS -            4.4e-46  150.1   0.9   5.6e-46  149.7   0.9   1.1   1   0   0   1   1   1   1 -
+CLASSA_BLAZ          -          sp|Q9EZQ7|BLAC_NOCAS -            3.2e-43  140.5   0.0   3.8e-43  140.3   0.0   1.0   1   0   0   1   1   1   1 -
+CLASSA_PC1           -          sp|Q9EZQ7|BLAC_NOCAS -            4.5e-43  140.0   0.0   5.5e-43  139.8   0.0   1.0   1   0   0   1   1   1   1 -
+CLASSA_PAL           -          sp|Q9EZQ7|BLAC_NOCAS -              5e-41  133.4   0.0   6.2e-41  133.1   0.0   1.1   1   0   0   1   1   1   1 -
+CLASSA_BRO           -          sp|Q9EZQ7|BLAC_NOCAS -            2.4e-30   98.1   0.0   3.2e-30   97.6   0.0   1.1   1   0   0   1   1   1   1 -
+CLASSA_CBLA          -          sp|Q9EZQ7|BLAC_NOCAS -            7.1e-14   44.1   0.0     9e-14   43.7   0.0   1.1   1   0   0   1   1   1   1 -
+CLASSA_PER           -          sp|Q9EZQ7|BLAC_NOCAS -            1.7e-12   39.5   0.0   2.5e-12   38.9   0.0   1.2   1   0   0   1   1   1   1 -
+CLASSA_CEPA          -          sp|Q9EZQ7|BLAC_NOCAS -            3.4e-11   35.2   0.0   4.9e-11   34.7   0.0   1.1   1   0   0   1   1   1   1 -
+CLASSA_VEB           -          sp|Q9EZQ7|BLAC_NOCAS -            1.6e-10   32.9   0.0   4.1e-10   31.6   0.0   1.5   1   1   0   1   1   1   1 -
+CLASSA_TLA           -          sp|Q9EZQ7|BLAC_NOCAS -            1.1e-08   27.0   0.0   1.5e-08   26.5   0.0   1.2   1   0   0   1   1   1   1 -
+#
+# Program:         hmmscan
+# Version:         3.2 (June 2018)
+# Pipeline mode:   SCAN
+# Query file:      seq1.fasta
+# Target file:     pARGhmm/TOTAL_96_families.hmm
+# Option settings: hmmscan --tblout phmmscan_output -E 1e-6 pARGhmm/TOTAL_96_families.hmm seq1.fasta 
+# Current dir:     /Volumes/DATA/Ph.D.Works/BETALACTAMSE_WORK_12-NOV-18/Beta-lactamase_NEW_WORK/Standalone_Version/blacfampred_standalone
+# Date:            Sat Jul 24 16:48:44 2021
+# [ok]
